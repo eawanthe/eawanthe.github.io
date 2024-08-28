@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eawanthe.github.io/sitemap.html.gz
+Sitemap: https://eawanthe.github.io/app/sitemap.html.gz
+Sitemap: https://eawanthe.github.io/assets/sitemap.html.gz
+Sitemap: https://eawanthe.github.io/css/sitemap.html.gz
+Sitemap: https://eawanthe.github.io/includes/sitemap.html.gz
+Sitemap: https://eawanthe.github.io/item/sitemap.html.gz
+Sitemap: https://eawanthe.github.io/src/sitemap.html.gz
